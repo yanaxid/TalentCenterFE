@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after {
+   box-sizing: border-box;
+}
+
+* {
+   margin: 0;
+}
+
+
+
+
+/* @media only screen and (max-width: 500px) {
+   ._sidebar {
+      color: red;
+      display: none !important;
+   }
+
+   ._main{
+      padding-left: 0 !important;
+   }
+ } */
+
+ body{
+   font-family: 'Poppins';
+ }
+
+ 
